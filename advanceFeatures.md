@@ -1,0 +1,6 @@
+# issuedate, duedate, return date (copies bhi increment hona chahiye)
+# charges due date se age ho to
+# agr issue krte time book available na ho mtlb 1 hi copy available ho to vo show krega ki book abhi available nahi hai to baad me mil jaaygi, agr wrong id book ki dale user to use message jaye ki iss book ki id nahi hai
+# ek button jispr user jaise hi click krega to ek popup aayga jisme user book ka name dalega agr vo databsae me maine dal rkhi hai available hai to user ko message ayga book availabe hai or yeh book id hai and itni copies pdi hai yeh list milni chahiye or agr nahi hai to not available dikhayga 
+# ek button hoga jisme book request dal skta hai jisme user book ka name likhega or apply kr dega agr databsae me vo book available hui to dikha dega ki already avaialbe hai yeh book id hai or itni copies available hai or agr manlo book available hai butt copies available nahi hai to aa jayga ki book apko mil jaygi jaise hi copies ati hai orr agr database me book hai hi nahi to ayga ki book ki request receive ho gai hai apko provide krwa di jaaygi
+# password ko .env me dalna hai 
